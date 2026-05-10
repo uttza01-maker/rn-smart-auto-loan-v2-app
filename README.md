@@ -1,50 +1,21 @@
-# Welcome to your Expo app 👋
+# 🚗 Smart Auto Loan Calculator V2
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### 📱 Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c2a88d0-9058-46d1-9e60-cf1062bea6bf" width="30%" alt="Screen 1" style="margin-right: 2%;"/>
+  <img src="https://github.com/user-attachments/assets/29be6e79-7398-45ec-be89-559e22f837d3" width="30%" alt="Screen 2" style="margin-right: 2%;"/>
+  <img src="https://github.com/user-attachments/assets/4e0e9494-b4e0-4b08-87bb-7131054788a0" width="30%" alt="Screen 3" />
+</p>
 
-## Get started
+---
 
-1. Install dependencies
+### 📝 รายละเอียดโปรเจกต์
+แอปพลิเคชันคำนวณสินเชื่อรถยนต์เวอร์ชัน 2 ที่เน้นความง่ายในการใช้งาน (User Experience) และความแม่นยำของตัวเลข เพื่อช่วยในการตัดสินใจเลือกซื้อรถได้อย่างชาญฉลาด
 
-   ```bash
-   npm install
-   ```
+### 🚀 ฟีเจอร์หลัก
+* [x] **Smart Calculation:** คำนวณดอกเบี้ยแบบ Flat Rate แม่นยำ 100%
+* [x] **Visual Summary:** สรุปยอดรวมดอกเบี้ยและยอดชำระทั้งหมดในหน้าเดียว
+* [x] **Dynamic Input:** ปรับเปลี่ยนปี/เงินดาวน์ และเห็นผลลัพธ์ทันที
+* [ ] **PDF Export:** (Coming Soon) ส่งออกใบเสนอราคาเป็นไฟล์ PDF
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
